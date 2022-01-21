@@ -1,0 +1,13 @@
+beans\Salle.class
+connexion\Connexion.class
+controller\LoginControlle.class
+beans\User.class
+dao\IDao.class
+service\SalleService.class
+controller\MachineControlle.class
+test.class
+beans\Machine.class
+service\LoginService.class
+test\test.class
+service\MachineService.class
+controller\SalleController.class
